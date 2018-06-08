@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100"
+    android:background="#fff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7"
+        android:background="@color/primarycolor"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/geotag_title_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="LOGIN"
+            android:paddingLeft="5dp"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:src="@drawable/active_back_btn"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:visibility="invisible"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/parinaam_logo_ico" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <ImageView
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="66"
+            android:background="@drawable/parinaam_logo"
+            android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="13"
+        android:orientation="vertical" >
+
+        <ImageView
+
+            android:id="@+id/gsklogo"
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/app_logo"
+            android:layout_centerInParent="true">
+        </ImageView>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="47"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="10" >
+        </ImageView>
+
+        <LinearLayout
+            android:id="@+id/imageViw"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/login_bg"
+            android:orientation="horizontal"
+
+            android:weightSum="100" >
+
+            <ImageView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </ImageView>
+
+            <LinearLayout
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="76"
+                android:orientation="vertical"
+                android:weightSum="100" >
+
+                <ImageView
+                    android:id="@+id/imiw"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="10" >
+                </ImageView>
+
+                <ImageView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="5"
+                    android:background="@drawable/login_txt">
+                </ImageView>
+                <ImageView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="7" >
+                </ImageView>
+
+                <TextView
+                    android:id="@+id/username_title_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="11"
+                    android:text="Username"
+                    android:textColor="#333"
+                    android:textSize="14sp"
+                    android:textStyle="italic" />
+
+                <EditText
+                    android:id="@+id/login_usertextbox"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="9"
+                    android:background="@drawable/txt_box_b_ico"
+                    android:textSize="14dp"
+                    android:textColorHint="#333"
+                    android:text=""
+                    android:paddingLeft="5dp" >
+                </EditText>
+
+                <ImageView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="8" >
+                </ImageView>
+
+                <TextView
+                    android:id="@+id/password_title_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="11"
+                    android:text="Password"
+                    android:textColor="#333"
+                    android:textSize="14dp"
+                    android:textStyle="italic" />
+
+                <EditText
+                    android:id="@+id/login_locktextbox"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="9"
+                    android:background="@drawable/txt_box_bg_ico"
+                    android:textSize="14dp"
+                    android:textColorHint="#333"
+                    android:inputType="textPassword"
+                    android:text=""
+                    android:paddingLeft="5dp" >
+                </EditText>
+
+                <ImageView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="8" >
+                </ImageView>
+
+                <LinearLayout
+                    android:id="@+id/imagddiw"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="13"
+                    android:orientation="horizontal"
+                    android:weightSum="100" >
+
+
+
+                    <Button
+                        android:id="@+id/login_loginbtn"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="27"
+                        android:background="@drawable/signin_btn" >
+                    </Button>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imageViaw"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="3dp"
+        android:layout_weight="2"
+        android:src="@drawable/gt_supervisor_txt" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="22">
+        <ImageView
+            android:id="@+id/loginfooter"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="55dp"
+            android:layout_marginRight="55dp"
+            android:background="@drawable/meadjohnsonlogo" />
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

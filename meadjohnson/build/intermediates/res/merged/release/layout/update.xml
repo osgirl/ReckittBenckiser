@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15"
+        android:background="@color/primarycolor"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:text="Button"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/header"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="80"
+            android:background="@drawable/clickto" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:text="Button"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <!--
+    <LinearLayout
+       
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+   
+    android:layout_weight="70"
+    android:weightSum="2"
+    android:orientation="horizontal" >
+
+             <WebView
+                 android:id="@+id/webview"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent" />
+                
+               
+                    
+                  
+             
+    </LinearLayout>
+    -->
+
+
+    <!--
+          <ImageView 
+                    android:layout_width="match_parent"
+   				    android:layout_height="wrap_content"
+   				    android:layout_weight="1"
+   				    android:src="@drawable/mccainpb"
+                    /> 
+    
+           <ImageView
+                          android:layout_width="fill_parent"
+   				    android:layout_height="wrap_content"
+                        android:layout_weight="1.00"
+                        android:src="@drawable/mccainvf" />
+    -->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/chings" />
+
+</LinearLayout>

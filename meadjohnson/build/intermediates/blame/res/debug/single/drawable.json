@@ -1,0 +1,986 @@
+[
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_data_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\upload_data_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\deep_freezer.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\deep_freezer.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\login_header.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\login_header.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_mccain.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\logo_mccain.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sdisplay.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_sdisplay.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_training.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_training.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\daily_activity.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\daily_activity.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\mccainpic.jpg",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\mccainpic.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_btn.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\upload_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_in_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sign_in_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_downloaddata.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_downloaddata.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_posmexecution.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_posmexecution.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_posmexecution.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_posmexecution.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btnsavebg.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btnsavebg.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exit.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_exit.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_mccain.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\logo_mccain.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\footer.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\footer.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_btn.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\blue_btn.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\chings.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\chings.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\posm_deployed_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\posm_deployed_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tick_u.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tick_u.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\mccainvf.jpg",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\mccainvf.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\meccain_icon.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\meccain_icon.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_btn.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\exit_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\title_header.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\title_header.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\exit_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\assets.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\assets.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\upload.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\upload.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\geo_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\geo_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\chings.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\chings.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\callsdone.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\callsdone.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tick_u.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tick_u.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\callsdone.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\callsdone.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_salesthru.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_salesthru.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\smithnjonesnoodles.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\smithnjonesnoodles.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_focussku.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_focussku.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\meadlogo.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\meadlogo.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_btn_hover.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\blue_btn_hover.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tickgreenv.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tickgreenv.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sku_display_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sku_display_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\daily_activity_hover.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\daily_activity_hover.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_skuavailability.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_skuavailability.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\calls_img.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\calls_img.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\custome_border.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\custome_border.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\download_data_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\download_data_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tab_background.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\title_header.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\title_header.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_btn.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\upload_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sad_cloud.jpg",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sad_cloud.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\calls.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\calls.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\download_btn.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\download_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\signin_btn.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\signin_btn.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sku_display_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sku_display_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\editboxtext.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\editboxtext.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\daily_activity_hover.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\daily_activity_hover.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\deactivebtn_bg.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\deactivebtn_bg.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\mccainpb.jpg",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\mccainpb.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\editboxtext.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\editboxtext.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\custome_border.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\custome_border.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\retailer_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\retailer_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.jpg",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\button_customlayout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\button_customlayout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_box_bg.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\txt_box_bg.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tickgreenv.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tickgreenv.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\secondary_window_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\secondary_window_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\calls_img.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\calls_img.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sad_cloud.jpg",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sad_cloud.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\smithnjones_logo.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\smithnjones_logo.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exit.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_exit.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\deep_freezer.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\deep_freezer.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\parinaam_logo.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\parinaam_logo.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sdisplay.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_sdisplay.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_upload.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_upload.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_training.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_training.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_soself.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_soself.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\titletext_bg.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\titletext_bg.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\capital_logo.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\capital_logo.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\special_window_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\special_window_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\login_header.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\login_header.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dailyentry.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_dailyentry.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_autoupdate.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_autoupdate.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\daily_entry_btn.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\daily_entry_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_posmtheme.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_posmtheme.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\assets.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\assets.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\footer.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\footer.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\meadjohnson_products.jpg",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\meadjohnson_products.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_highlight.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tab_highlight.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\mccainpb.jpg",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\mccainpb.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_in_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sign_in_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_downloaddata.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_downloaddata.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_btn_hover.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\blue_btn_hover.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\store_icon.jpg",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\store_icon.jpg"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_salesthru.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_salesthru.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\daily_entry.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\daily_entry.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_data_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\upload_data_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_checkout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\geo_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\geo_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\food.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\special_window_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\special_window_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\meadlogo.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\meadlogo.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\daily_entry_btn.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\daily_entry_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\capital_logo.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\capital_logo.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\daily_entry.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\daily_entry.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_skuavailability.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_skuavailability.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_btn.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\exit_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\button_customlayout.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\button_customlayout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\calls.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\calls.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_flex.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_flex.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\camerabtn.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\camerabtn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\deactivebtn_bg.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\deactivebtn_bg.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\auto_update_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\auto_update_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_focussku.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_focussku.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tab_background.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_autoupdate.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_autoupdate.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_feedback_return.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sym_keyboard_feedback_return.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tick_c.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tick_c.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\geo_tag_btn.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\geo_tag_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\dailyentry_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\dailyentry_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\back_btn_bg.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\back_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btnsavebg.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btnsavebg.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\geo_tag_btn.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\geo_tag_btn.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dailyentry.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_dailyentry.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_text_indicator.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tab_text_indicator.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_delete.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\meccain_icon.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\meccain_icon.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_btn.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\blue_btn.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\mccainvf.jpg",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\mccainvf.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\back_btn_bg.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\back_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\meadjohnsonlogo.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\meadjohnsonlogo.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\store_icon.jpg",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\store_icon.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\login_txt.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\login_txt.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\smithnjonesnoodles.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\smithnjonesnoodles.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\camerabtn.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\camerabtn.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_posmtheme.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_posmtheme.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_text_indicator.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tab_text_indicator.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\exit_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\meadjohnsonlogo.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\meadjohnsonlogo.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\secondary_window_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\secondary_window_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bg.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\title_bg.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\smithnjones_logo.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\smithnjones_logo.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\retailer_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\retailer_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\download_data_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\download_data_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\download_btn.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\download_btn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tick_p.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tick_p.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.jpg",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\login_txt.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\login_txt.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_soself.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_soself.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\parinaam_logo.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\parinaam_logo.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\meadjohnson_products.jpg",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\meadjohnson_products.jpg"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\innerbtn.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\innerbtn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tick_c.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tick_c.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\posm_deployed_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\posm_deployed_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\daily_activity.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\daily_activity.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\innerbtn.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\innerbtn.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_flex.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_flex.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_delete.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tick_d.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tick_d.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\upload.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\upload.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\dailyentry_selector.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\dailyentry_selector.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tick_d.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tick_d.png"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\auto_update_selector.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\auto_update_selector.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tick_p.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tick_p.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_upload.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_upload.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\signin_btn.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\signin_btn.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_keyboard_feedback_return.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\sym_keyboard_feedback_return.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\titletext_bg.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\titletext_bg.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\mccainpic.jpg",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\mccainpic.jpg"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkout.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\btn_checkout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bg.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\title_bg.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_highlight.xml",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\tab_highlight.xml"
+    },
+    {
+        "merged": "D:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\food.png",
+        "source": "D:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_box_bg.png",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\drawable\\txt_box_bg.png"
+    }
+]

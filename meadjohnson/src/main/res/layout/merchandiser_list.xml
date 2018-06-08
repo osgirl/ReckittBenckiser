@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff"
+    android:orientation="horizontal"
+    android:weightSum="10" >
+
+    <TextView
+        android:id="@+id/tvmerchendiser"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:background="#EB9100" />
+
+    <TextView
+        android:id="@+id/tvmandays"
+        android:layout_width="0dp"
+       android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:background="#EB9100" />
+
+    <TextView
+        android:id="@+id/tvcoverage"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:background="#EB9100" />
+
+    <TextView
+        android:id="@+id/tvmerchandised"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:background="#EB9100" />
+
+    <TextView
+        android:id="@+id/tvCompliance"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:textSize="18sp" />
+
+</LinearLayout>

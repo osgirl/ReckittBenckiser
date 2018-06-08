@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_competition_aditional_poi.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_competition_aditional_poi.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\poi_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\poi_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\nav_header_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\nav_header_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\fragment_main.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\closing_stock.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\closing_stock.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\storename.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\storename.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\menu_item_recycle_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\menu_item_recycle_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_sampling_detail.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_sampling_detail.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\new_main.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\new_main.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\list_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\food_entry.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\food_entry.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_competition_faceup.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_competition_faceup.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\nav_header_main_menu2.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\nav_header_main_menu2.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\app_bar_main_menu_daily.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\app_bar_main_menu_daily.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_additional_poi.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_additional_poi.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\brand.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\brand.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\custom_upload.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\custom_upload.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\secwindow.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\secwindow.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\jointcall.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\jointcall.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\df_list_item_temp.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\df_list_item_temp.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\merchandiser_list.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\merchandiser_list.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\store_entry_new_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\store_entry_new_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\mainmenuactivity.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\mainmenuactivity.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\nav_header_main.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\store_entry_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\store_entry_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\facing_competitor.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\facing_competitor.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\sample_data_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\sample_data_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\splash_screen_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\splash_screen_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\facingcompetitor_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\facingcompetitor_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\storevisited.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\storevisited.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_main_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_main_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\nav_header_main_menu_daily.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\nav_header_main_menu_daily.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\fragment_main_menu2.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\fragment_main_menu2.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\calls_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\calls_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\upload_option.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\upload_option.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_competition_faceup.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_competition_faceup.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\todays_question_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\todays_question_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\storel_list_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\storel_list_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\listheader.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\listheader.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\food_store_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\food_store_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\merchandiserlist.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\merchandiserlist.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\custom.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_competition_aditional_poi.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_competition_aditional_poi.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\competitionpromotion_list.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\competitionpromotion_list.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\gateitem.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\gateitem.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\dialogbox.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\dialogbox.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\list_sub_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\list_sub_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\fragment_main_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\fragment_main_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\promotion_entry.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\promotion_entry.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_main_menu2.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_main_menu2.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\dailyentry.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\dailyentry.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\app_bar_main.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\poi_list_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\poi_list_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\faceup_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\faceup_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_competition_promotions.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_competition_promotions.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_menu2.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_main_menu2.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\check.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\check.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\mainpage.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\mainpage.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\my_performance_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\my_performance_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_splash_screen.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_splash_screen.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\app_bar_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\app_bar_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\store_entry_all_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\store_entry_all_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\upload_select.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\upload_select.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\list_group_opening.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\list_group_opening.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash_screen.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_main_menu_daily.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_main_menu_daily.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_competition_promotions.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_competition_promotions.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\nonworking.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\nonworking.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_sampling_detail.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_sampling_detail.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\midday_stock_entry.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\midday_stock_entry.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\calls_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\calls_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\nav_header_main_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\nav_header_main_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_menu_daily.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_main_menu_daily.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\fragment_help.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\list_group.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\deepfreezer_tab_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\deepfreezer_tab_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\spinner_custom_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\spinner_custom_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\list_item_openingstk.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\list_item_openingstk.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\df_list_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\df_list_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\gatemeeting.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\gatemeeting.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\show_answer_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\show_answer_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\openingbrand.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\openingbrand.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\df_list_item_store.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\df_list_item_store.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\checkout_n_upload.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\checkout_n_upload.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\openingstockviewlist.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\openingstockviewlist.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\performance_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\performance_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\update.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\promotion_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\promotion_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\opening_stock.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\opening_stock.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\activity_competion_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\activity_competion_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\asset_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\asset_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\asset_entry.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\asset_entry.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\app_bar_main_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\app_bar_main_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\storelistrow.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\storelistrow.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\deepfreezer_type_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\deepfreezer_type_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\pjpdeviation.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\pjpdeviation.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\storelistlayout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\storelistlayout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_competion_menu.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_competion_menu.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\custom_row.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\custom_row.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\content_additional_poi.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\content_additional_poi.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\opening_stock_entry.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\opening_stock_entry.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\closing_stock_entry.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\closing_stock_entry.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout\\midday_stock.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout\\midday_stock.xml"
+    }
+]

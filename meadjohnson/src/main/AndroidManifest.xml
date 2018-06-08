@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cpm.capitalfoods"
+    android:versionCode="3"
+    android:versionName="1.2">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/parinaam_logo_ico"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name="com.cpm.gskgtsupervisor.SplashScreenActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cpm.autoupdate.AutoupdateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.web.ShowUpdateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.gskgtsupervisor.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.download.CompleteDownloadActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.DailyEntryScreen"
+            android:label="Store List"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.UploadOptionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.UploadDataActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.CheckoutNUpload"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.UploadAllImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.StoreEntry"
+            android:label="Store Entry"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.StoreType"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.DeepFreezerActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.MccainType"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.OpeningStock"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Stock Availability/Opening Stock"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.ClosingStock"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label=" Stock Availability/Closing Stock"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.MidDayStock"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Stock Availability/Midday Stock"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.PromotionActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Promotion"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.AssetActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Asset"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.NonWorkingReason"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.FoodStore"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.FacingCompetitor"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Facing Competitor"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.UploadSelect"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.CheckOutStoreActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.CallsActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Calls"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.Performance"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.gskgtsupervisor.MenuActivity"
+            android:label="@string/title_activity_menu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.gskgtsupervisor.MainMenuActivity"
+            android:label="Main Menu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.gskgtsupervisor.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.CompetionMenuActivity"
+            android:label="@string/title_activity_competion_menu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.CompetitionFaceupActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_competition_faceup"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.CompetitionAditionalPOIActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Additional POI"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.CompetitionPromotionsActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Promotion"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.AdditionalPOIActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Additional POI"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.SamplingDetailActivity"
+            android:label="Sampling Detail"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"
+            android:theme="@style/AppTheme.NoActionBar"
+           ></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\merchandiserlist.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\merchandiserlist.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\my_performance_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\my_performance_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\deepfreezer_type_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\deepfreezer_type_layout.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\jointcall.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\jointcall.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\gateitem.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\gateitem.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\nonworking.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\nonworking.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\secwindow.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\secwindow.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\merchandiser_list.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\merchandiser_list.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\pjpdeviation.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\pjpdeviation.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\custom.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\custom.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\df_list_item.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\df_list_item.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\brand.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\brand.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\check.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\check.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\gatemeeting.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\gatemeeting.xml"
+    },
+    {
+        "merged": "E:\\MeadJohnson\\meadjohnson\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\deepfreezer_tab_layout.xml",
+        "source": "E:\\MeadJohnson\\meadjohnson\\src\\main\\res\\layout-large\\deepfreezer_tab_layout.xml"
+    }
+]

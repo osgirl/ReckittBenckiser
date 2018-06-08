@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.gskgtsupervisor.MainActivity" >
+
+  <item
+
+        android:id="@+id/save_database"
+
+        android:orderInCategory="100"
+
+        android:title="Save Daatabase"
+
+        />
+    
+
+</menu>

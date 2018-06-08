@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        card_view:cardBackgroundColor="@color/green"
+        card_view:cardCornerRadius="5dp" >
+
+        <RelativeLayout
+        android:id="@+id/storenamelistview_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       android:background="@drawable/list_selector"
+        android:padding="10sp" 
+        >
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="6sp"
+            android:paddingTop="5sp"
+            android:background="@drawable/store" />
+
+        <TextView
+            android:id="@+id/tvstorename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/img"
+            android:layout_toRightOf="@+id/img"
+            android:text="Balaji Tele Communication"
+            android:textColor="#1F3A6C"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvkeyaccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tvstorename"
+            android:layout_below="@+id/tvstorename"
+            android:text="C 126"
+            android:textColor="#666666"
+            android:textSize="10sp"
+            android:textStyle="normal" />
+        
+         <TextView
+            android:id="@+id/tvcity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tvkeyaccount"
+            android:layout_below="@+id/tvkeyaccount"
+            android:text="C 126"
+            android:textColor="#666666"
+            android:textSize="10sp"
+            android:textStyle="normal" />
+        
+        <Button
+            android:id="@+id/chkout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:focusable="false"
+            android:visibility="visible" />
+
+      
+
+        <ImageView
+            android:id="@+id/closechkin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            android:visibility="gone"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/tvstorename"
+             />
+
+    </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

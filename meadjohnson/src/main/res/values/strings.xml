@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mead Johnson 1.0</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="jointcall">Joint Call</string>
+    <string name="pjpdeviation">PJP Deviation</string>
+    <string name="merc_name">Merchandiser Name</string>
+
+    <string name="remark">Remarks</string>
+    <string name="image">Image</string>
+    <string name="save">SAVE</string>
+
+    <string name="actual_listed">Actual listed</string>
+    <string name="Opening_Stock_Cold_Room">Cold room - Opening stk</string>
+    <string name="Opening_Stock_Mccain_Df">Mccain DF - Opening stk</string>
+    <string name="Total_Facing_McCain_DF">Mccain DF - Total Facing</string>
+    <string name="Opening_Stock_Store_DF">Store DF - Opening stk</string>
+    <string name="Total_Facing_Store_DF">Store DF - Total Facing</string>
+    <string name="Material_wellness_thawed_quantity">Thawed Qty</string>
+    <string name="As_Per_Mccain">As Per Mccain</string>
+
+    <string name="total_calls">Total Calls</string>
+    <string name="productive_calls">Productive Calls</string>
+
+    <string name="calls">Calls Panel</string>
+    
+    <string name="customer_name">Customer Name</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="quantity_sample">Sample Quantity</string>
+    <string name="quantity_sale">Sale Quantity</string>
+
+    <string name="performance">Performance</string>
+
+    <string name="stock_entry">Stock Entry</string>
+    <string name="deep_freezer">Deep Freezer</string>
+    <string name="asset">Asset</string>
+    <string name="promotion">Promotion</string>
+    <string name="competion">Competition</string>
+    <string name="food_service">Food Service</string>
+    <string name="call">Calls</string>
+
+    <string name="total_stock">Total Stock</string>
+    <string name="facing">Facing</string>
+    <string name="stock_under_days">Stock under 45 days of Expiry</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="daily_entry">Daily Entry</string>
+
+    <string name="download">Download</string>
+
+    <string name="upload">Upload</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="opening_stock">Opening Stock</string>
+    <string name="midday_stock">Midday Stock</string>
+    <string name="closing_stock">Closing Stock</string>
+    <string name="title_activity_main_menu_daily">MainMenuDaily</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="help_str">If You Have Any Query \n You Can Call To Help Desk</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_competion_menu">Competition</string>
+    <string name="title_activity_competition_faceup">Faceup</string>
+    <string name="title_activity_competition_aditional_poi">CompetitionAditionalPOIActivity</string>
+    <string name="title_activity_competition_promotions">CompetitionPromotionsActivity</string>
+    <string name="title_activity_additional_poi">AdditionalPOIActivity</string>
+    <string name="title_activity_sampling_detail">SamplingDetailActivity</string>
+
+
+</resources>

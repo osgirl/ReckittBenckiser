@@ -1,0 +1,57 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cpm.fragment.HelpFragment">
+
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        card_view:cardBackgroundColor="@color/white"
+        card_view:cardCornerRadius="5dp" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <!-- TODO: Update blank fragment layout -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/help_str"
+                android:layout_marginTop="30dp"
+                android:textSize="@dimen/store_entry_text_size"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:background="@color/primarycolor"
+                android:paddingRight="5dp"
+                android:paddingLeft="5dp"
+                android:gravity="center"/>
+
+            <Button
+                android:id="@+id/btn_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call"
+                android:layout_centerInParent="true"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:textSize="@dimen/store_entry_text_size"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:background="@color/primarycolor"/>
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+</FrameLayout>

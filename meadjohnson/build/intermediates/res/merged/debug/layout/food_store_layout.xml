@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100" 
+    android:background="@color/white">
+
+    <LinearLayout
+        android:id="@+id/belowme"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/red"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:id="@+id/txt_idealFor"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="100"
+            android:gravity="center"
+            android:paddingLeft="5dp"
+            android:text="Food Store"
+            android:textSize="20sp"
+            android:textStyle="italic" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/entry_data"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_below="@+id/belowme"
+        layout="@layout/opening_stock_entry"
+        android:visibility="invisible" /> 
+
+    <ExpandableListView
+        android:id="@+id/lvExp"
+        android:layout_width="fill_parent"
+        android:layout_height="400dp"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_below="@+id/belowme"
+        android:cacheColorHint="#00000000"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:scrollingCache="false" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="7"
+        android:background="@color/teal_header"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <Button
+            android:id="@+id/butt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="30"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/save_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="40"
+            android:text="  SAVE " />
+    </LinearLayout>
+    
+    <com.cpm.keyboard.CustomKeyboardView
+        android:id="@+id/keyboard_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone" >
+    </com.cpm.keyboard.CustomKeyboardView>
+
+</RelativeLayout>

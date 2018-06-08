@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:2:1-201:12
+	xmlns:android
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+		INJECTED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:20:22-66
+application
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:22:5-199:19
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\MeadJohnson\meadjohnson\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:24:9-51
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:26:9-52
+activity#com.cpm.gskgtsupervisor.SplashScreenActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:27:9-36:20
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:28:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:34:27-74
+activity#com.cpm.autoupdate.AutoupdateActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:38:13-65
+activity#com.cpm.web.ShowUpdateActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:41:13-58
+activity#com.cpm.gskgtsupervisor.MainActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:43:9-45:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:44:13-64
+activity#com.cpm.download.CompleteDownloadActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:47:13-69
+activity#com.cpm.dailyentry.DailyEntryScreen
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:51:13-39
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:50:13-63
+activity#com.cpm.upload.UploadOptionActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:53:9-55:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:54:13-63
+activity#com.cpm.upload.UploadDataActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:56:9-58:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:57:13-61
+activity#com.cpm.upload.CheckoutNUpload
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:60:13-58
+activity#com.cpm.upload.UploadAllImageActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:62:9-64:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:63:13-65
+activity#com.cpm.dailyentry.StoreEntry
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:65:9-68:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:67:13-40
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:66:13-57
+activity#com.cpm.dailyentry.StoreType
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:69:9-71:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:70:13-56
+activity#com.cpm.dailyentry.DeepFreezerActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:72:9-75:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:75:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:73:13-66
+activity#com.cpm.dailyentry.MccainType
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:76:9-78:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:77:13-57
+activity#com.cpm.dailyentry.OpeningStock
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:79:9-84:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:84:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:82:13-61
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:81:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:80:13-59
+activity#com.cpm.dailyentry.ClosingStock
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:85:9-90:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:90:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:88:13-62
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:87:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:86:13-59
+activity#com.cpm.dailyentry.MidDayStock
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:91:9-96:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:96:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:95:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:94:13-60
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:93:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:92:13-58
+activity#com.cpm.dailyentry.PromotionActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:97:9-102:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:102:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:100:13-38
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:99:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:98:13-64
+activity#com.cpm.dailyentry.AssetActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:103:9-108:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:108:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:107:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:106:13-34
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:105:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:104:13-60
+activity#com.cpm.dailyentry.NonWorkingReason
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:109:9-111:52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:111:13-49
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:110:13-63
+activity#com.cpm.dailyentry.FoodStore
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:112:9-116:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:116:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:115:13-49
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:114:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:113:13-56
+activity#com.cpm.dailyentry.FacingCompetitor
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:117:9-122:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:122:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:121:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:120:13-46
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:119:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:118:13-63
+activity#com.cpm.dailyentry.UploadSelect
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:123:9-127:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:127:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:126:13-49
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:125:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:124:13-59
+activity#com.cpm.dailyentry.CheckOutStoreActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:128:9-132:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:132:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:131:13-49
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:130:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:129:13-68
+activity#com.cpm.dailyentry.CallsActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:133:9-138:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:138:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:137:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:136:13-34
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:135:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:134:13-60
+activity#com.cpm.dailyentry.Performance
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:139:9-143:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:143:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:142:13-49
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:141:13-74
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:140:13-58
+activity#com.cpm.gskgtsupervisor.MenuActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:144:9-148:59
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:147:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:146:13-56
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:148:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:145:13-64
+activity#com.cpm.gskgtsupervisor.MainMenuActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:149:9-153:59
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:152:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:151:13-38
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:153:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:150:13-68
+activity#com.cpm.gskgtsupervisor.LoginActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:154:9-158:59
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:157:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:156:13-45
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:158:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:155:13-65
+activity#com.cpm.dailyentry.CompetionMenuActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:159:9-163:59
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:162:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:161:13-66
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:163:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:160:13-68
+activity#com.cpm.dailyentry.CompetitionFaceupActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:164:9-169:59
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:168:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:167:13-70
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:166:13-74
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:169:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:165:13-72
+activity#com.cpm.dailyentry.CompetitionAditionalPOIActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:170:9-176:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:176:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:174:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:173:13-43
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:172:13-74
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:175:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:171:13-78
+activity#com.cpm.dailyentry.CompetitionPromotionsActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:177:9-183:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:183:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:180:13-38
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:179:13-74
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:182:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:178:13-76
+activity#com.cpm.dailyentry.AdditionalPOIActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:184:9-190:55
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:190:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:188:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:187:13-43
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:186:13-74
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:189:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:185:13-68
+activity#com.cpm.dailyentry.SamplingDetailActivity
+ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:191:9-198:24
+	android:windowSoftInputMode
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:196:13-52
+	android:screenOrientation
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:195:13-49
+	android:label
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:193:13-44
+	android:configChanges
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:194:13-74
+	android:theme
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:197:13-56
+	android:name
+		ADDED from E:\MeadJohnson\meadjohnson\src\main\AndroidManifest.xml:192:13-69

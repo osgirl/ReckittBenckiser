@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+         <LinearLayout
+        android:id="@+id/first"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/custome_border"
+        android:weightSum="10" >
+        
+        <TextView
+            android:id="@+id/brand_name"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="TextView "
+            android:textStyle="italic" 
+            android:layout_marginLeft="30dp"
+            android:textSize="20sp"
+            android:layout_weight="6"/>
+        
+        <Button android:id="@+id/imageView"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="Click for planogram"
+            android:layout_weight="4"/>
+
+    </LinearLayout>
+    
+
+</LinearLayout>

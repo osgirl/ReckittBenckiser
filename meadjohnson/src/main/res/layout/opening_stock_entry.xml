@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_blue" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="8" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/As_Per_Mccain"
+                android:textSize="16sp" 
+                android:textColor="@color/text_yellow"
+                />
+
+            <EditText
+                android:id="@+id/etAs_Per_Mccain"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <View 
+             android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                 android:text="@string/actual_listed"
+                android:textSize="16sp" 
+                 android:textColor="@color/text_yellow"/>
+
+            <EditText
+                 android:id="@+id/etactual_listed"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+         <View 
+             android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                 android:text="@string/Opening_Stock_Cold_Room"
+                android:textSize="16sp" 
+                 android:textColor="@color/text_yellow"/>
+
+            <EditText
+                 android:id="@+id/etOpening_Stock_Cold_Room"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+         <View 
+             android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                 android:text="@string/Opening_Stock_Mccain_Df"
+                android:textSize="16sp" 
+                 android:textColor="@color/text_yellow"/>
+
+            <EditText
+                 android:id="@+id/etOpening_Stock_Mccain_Df"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+         <View 
+             android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+               android:text="@string/Total_Facing_McCain_DF"
+                android:textSize="16sp" 
+                 android:textColor="@color/text_yellow"/>
+
+            <EditText
+                 android:id="@+id/etTotal_Facing_McCain_DF"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+         <View 
+             android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                 android:text="@string/Opening_Stock_Store_DF"
+                android:textSize="16sp" 
+                 android:textColor="@color/text_yellow"/>
+
+            <EditText
+                 android:id="@+id/etOpening_Stock_Store_DF"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+         <View 
+             android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                 android:text="@string/Total_Facing_Store_DF"
+                android:textSize="16sp" 
+                 android:textColor="@color/text_yellow"/>
+
+            <EditText
+                 android:id="@+id/etTotal_Facing_Store_DF"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+         <View 
+             android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                 android:text="@string/Material_wellness_thawed_quantity"
+                android:textSize="16sp"
+                 android:textColor="@color/text_yellow" />
+
+            <EditText
+                 android:id="@+id/etmaterial_wellness_thawed_quantity"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+       
+    </LinearLayout>
+
+</ScrollView>

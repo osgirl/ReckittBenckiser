@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100"
+    android:orientation="vertical" >
+    
+   <LinearLayout
+       
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="9"
+     android:background="#f26d20"
+    android:orientation="vertical" >
+    
+       
+       <TextView
+            android:id="@+id/geotag_title_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text=" Login"
+            android:textColor="#e2e2e2"
+            android:textSize="20sp" />
+       
+    </LinearLayout>
+       
+      <LinearLayout
+       
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="3"
+    android:orientation="vertical" >
+    </LinearLayout>
+        <LinearLayout
+       
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="11"
+    android:weightSum="10"
+    android:orientation="horizontal" >
+    
+              <ImageView
+
+            android:layout_width="0dp"
+            android:layout_weight=".7"
+            android:layout_height="match_parent"
+            android:visibility="invisible"
+            android:src="@drawable/active_back_btn" />
+               <ImageView
+
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="match_parent"
+              android:background="@drawable/parinaam_logo" />
+            
+    </LinearLayout>
+
+         <LinearLayout
+       
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="3"
+    android:orientation="vertical" >
+    </LinearLayout>  
+      
+         <LinearLayout
+       
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="60"
+    android:weightSum="100"
+    android:orientation="horizontal" >
+               
+             <ImageView
+       android:id="@+id/imageView8"
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="7">
+    </ImageView>
+                  <LinearLayout
+                      
+
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/ba"
+    android:weightSum="100"
+    android:layout_weight="86">
+                 
+                      
+                    <ImageView
+
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="10">
+                 
+             </ImageView>   
+             
+                   
+                 
+              <LinearLayout
+                      
+
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100"
+    android:layout_weight="80">
+                  
+             
+                    
+                   
+                 
+               <ImageView
+
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="20">
+                 
+             </ImageView>
+                      
+               <EditText
+       android:id="@+id/tmiw"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="13">
+                 
+             </EditText>
+             
+               <ImageView
+
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="10">
+                 
+             </ImageView>
+             
+               <EditText
+       android:id="@+id/tdiw"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="13">
+                 
+             </EditText>
+               <ImageView
+
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="9">
+                 
+             </ImageView>
+             
+               
+                <LinearLayout
+                      
+       android:id="@+id/imagddiw"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="horizontal"
+    android:layout_weight="13"
+    android:weightSum="100"
+    >
+               
+               
+               <Button
+
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:visibility="invisible"
+    android:layout_weight="26">
+                 
+             </Button>
+              <Button
+       android:id="@+id/imiw"
+    android:layout_width="0dp"
+    android:background="@drawable/tesst"
+    android:layout_height="match_parent"
+    android:layout_weight="50">
+                 
+             </Button>
+             
+              
+                   
+             
+             </LinearLayout>
+                      
+                
+                
+                
+                
+                
+             </LinearLayout>
+             
+                  
+                  <ImageView
+
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="13">
+                 
+             </ImageView>
+    
+    
+    </LinearLayout>           
+                  
+    
+</LinearLayout>
+
+         
+          <ImageView
+
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="14">
+                 
+             </ImageView>
+</LinearLayout>
